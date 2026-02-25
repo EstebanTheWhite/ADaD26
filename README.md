@@ -15,6 +15,7 @@ This repository is intended to provide all materials, templates, guides, and ref
   - [How to Use This Repository](#how-to-use-this-repository)
   - [Links](#links)
   - [Narrative](#narrative)
+  - [License](#license)
   - [Changelog](#changelog)
 
 ---
@@ -47,8 +48,8 @@ Software development is no longer only for coders. For business & IT students, u
  Phase | Module | Focus | Key Artifacts |
 -------|--------|-------|---------------|
  1 | Application Concept | Developer mindset & requirements | Conceptual foundation, the Red Book |
- 2 | Application Design | UX/UI, flows, wireframes, static web page | User decision flow, interface design, static interface, the Red Book chapter 1 & 2 |
- 3 | Application Logic | JavaScript, dynamic pages, code comprehension | Dynamic interface, automation/extension, the Red Book chapter 3 & 4 |
+ 2 | Application Design | UX/UI, flows, wireframes, HTML & CSS | User decision flow, interface design, static interface, the Red Book chapter 1 & 2 |
+ 3 | Application Logic | Code comprehension, JavaScript, Libraries & Frameworks, APIs | Dynamic interface, automation/extension, the Red Book chapter 3 & 4 |
  4 | Application Synthesis | Integration, review, final system | Integrated Fellowship Companion, the Red Book chapter 5 |
 
 > Each homework builds toward **the Fellowship Companion**, a digital system designed to support the journey (of the Fellowship) with planning, communication, decision-making, and resource management.
@@ -87,18 +88,28 @@ Software development is no longer only for coders. For business & IT students, u
 ## Links
 
 - [F.A.Q.](FAQ.md)
-- [GitHub & the Red Book of Westmarch Guide](HOWTO.md)  
-- [Assignments Checklist](CHECKLIST.md)  
-- [Student System Template](TEMPLATES/student_system_template.md)  
-- [Students Chapter Template](TEMPLATES/student_chapter_template.md)  
+- [GitHub & the Red Book of Westmarch Guide](HOWTO.md)
+- [Assignments Checklist](CHECKLIST.md)
+- [Student System Template](TEMPLATES/student_system_template.md)
+- [Students Chapter Template](TEMPLATES/student_chapter_template.md)
+- [License](LICENSE.md)
 
 ---
 
 ## Narrative
 
-- You are **hobbits on a journey**, building a tool for the Fellowship's quest.  
-- Each phase corresponds to a stage of the journey, with LOTR quotes guiding learning and reflection.  
-- Students document their learning and AI reflections in **the Red Book of Westmarch** per phase.  
+- You are **hobbits on a journey**, building a tool for the Fellowship's quest.
+- Each phase corresponds to a stage of the journey, with LOTR quotes guiding learning and reflection.
+- Students document their learning and AI reflections in **the Red Book of Westmarch** per phase.
+
+---
+
+## License
+
+This repository is licensed under [**CC BY-NC-ND 4.0**](LICENSE.md).
+
+You are welcome to read and reference this material.
+You may not copy, modify, or submit it (or parts of it) as your own work.
 
 ---
 
