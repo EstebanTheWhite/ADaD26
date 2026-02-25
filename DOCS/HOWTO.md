@@ -24,8 +24,9 @@ This guide explains how to **work, submit, and document your work** for the **Ap
         │
         ├── README.md ← The Red of Westmarch
         ├── chapters/ ← chapters of The Red
-        ├── designs/  ← Flows, wireframes
-        ├── code/     ← code
+        ├── docs/     ← Supporting documents (*.md files)
+        ├── designs/  ← Flows, wireframes (images, mermaid.md files)
+        ├── code/     ← code (*.html, *.css, *.js files)
 
 3. Use **Codespaces** for development.  
 
