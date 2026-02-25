@@ -1,12 +1,12 @@
-# HOWTO: GitHub & the Red Book of Westmarch Guide
+# Guide: GitHub & The Red of Westmarch
 
 This guide explains how to **work, submit, and document your work** for the **Application Design & Development** course.
 
 **Table of Contents**
 
-- [HOWTO: GitHub \& the Red Book of Westmarch Guide](#howto-github--the-red-book-of-westmarch-guide)
+- [Guide: GitHub \& The Red of Westmarch](#guide-github--the-red-of-westmarch)
   - [1. Setting up Your Repository](#1-setting-up-your-repository)
-  - [2. Updating the Red Book](#2-updating-the-red-book)
+  - [2. Updating The Red](#2-updating-the-red)
   - [3. Submission \& Workflow](#3-submission--workflow)
   - [4. Networking \& Peer Feedback (Lord of the Tweets)](#4-networking--peer-feedback-lord-of-the-tweets)
   - [5. AI Usage Guidelines](#5-ai-usage-guidelines)
@@ -22,28 +22,27 @@ This guide explains how to **work, submit, and document your work** for the **Ap
 
         team name/
         │
-        ├── README.md ← the Red Book of Westmarch
-        ├── chapters/ ← chapters of the Red Book
+        ├── README.md ← The Red of Westmarch
+        ├── chapters/ ← chapters of The Red
         ├── designs/  ← Flows, wireframes
-        ├── code/     ← HTML, CSS, JS code
+        ├── code/     ← code
 
 3. Use **Codespaces** for development.  
 
 ---
 
-## 2. Updating the Red Book
+## 2. Updating The Red
 
 Every phase includes a **Red Book update**, reflecting on:
 
-- What you built  
-- How you approached it  
-- AI assistance used (explanations, modifications)  
-- Lessons learned  
+- What you built
+- How you approached it
+- AI assistance used (explanations, modifications, limitations)
+- Lessons learned
 
 **Structure:**
 
-    ```markdown
-    # the Red Book of Westmarch - Chapter X: Title
+    # The Red of Westmarch - Chapter X: Title
 
     ## Summary
 
@@ -56,14 +55,11 @@ Every phase includes a **Red Book update**, reflecting on:
 
     ## AI Assistance
 
-    - Explanation of AI output
-    - Modifications made
-    - Limitations
+    - Explanations, modifications, limitations
 
     ## Lessons Learned
 
     - Insights, challenges, reflections
-    ```
 
 Submit updates in `/README.md` and as linked files in `/chapters/`.
 
@@ -84,7 +80,7 @@ Submit updates in `/README.md` and as linked files in `/chapters/`.
 ## 5. AI Usage Guidelines
 
 - AI is allowed and encouraged for coding, design, and logic tasks.
-- You must document outputs, limitations, and modifications in the Red Book.
+- You must document outputs, limitations, and modifications in The Red.
 - You should be able to explain what the AI produced, not just copy results.
 
 **We are not interested in:**
@@ -112,12 +108,13 @@ Submit updates in `/README.md` and as linked files in `/chapters/`.
 - Whether you can explain decisions
 - Whether you can reflect on tools (including AI)
 
+*`Perfect code is not required. Intent and structure are.`*
+
 ## 7. General Tips
 
 - Think like a developer: clarity, structure, and purpose matter more than fancy code.
-  - Perfect code is not required. Intent and structure are.
 - Commit often with meaningful messages.
 - Keep artifacts organized and named consistently.
-- Update the Red Book after each task (it tracks your journey).
+- Update The Red after each task (it tracks your journey).
 - Check the templates in TEMPLATES/ for formatting guidance.
-- Use the LOTR narrative to make your documentation memorable and fun.
+- Use the LOTR narrative to make your documentation memorable and interesting.

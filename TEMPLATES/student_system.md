@@ -1,9 +1,8 @@
 # The Fellowship Companion
 
-`The Fellowship of the Code - A Developer's Tale`
+*`The Fellowship of the Code – A Developer's Tale`*
 
-`LOTR Quote relevant to the homework or artifact`
-`"..." - Character`
+*`LOTR Quote relevant to the homework or artifact` `"..." - Character`*
 
 **Table of Contents**
 
@@ -32,7 +31,7 @@ The Fellowship Companion is a **evolving digital tool** we build together. It is
 ## Rules of our Journey
 
 - All artifacts live in **this GitHub repo**.  
-- Gandalf (the AI) is our companion: we may ask him for help, but we always **reflect on our decisions** in the Red Book.  
+- Gandalf (the AI) is our companion: we may ask him for help, but we always **reflect on our decisions** in The Red Book.  
 - Peer sharing is optional but highly recommended: it **keeps the Fellowship alive**.  
 - **The Red Book of Westmark** (`README.md` + `/chapters/`) is our reflection log and living changelog.
 
@@ -75,15 +74,17 @@ The Fellowship Companion is a **evolving digital tool** we build together. It is
 - **Resource Management:** track fictional "hobbit resources" (food, supplies, morale)  
 - **Decision Support:** flows and logic for key choices on the journey  
 - **Communication:** share work, reflections, and AI learnings  
-- **Versioned & Evolving:** artifacts build on each other, tracked in the Red Book
+- **Versioned & Evolving:** artifacts build on each other, tracked in The Red Book
 
 ---
 
 ## Changelog
 
-`This is our general changelog (e.g., new chapter contents added, rules changed, or major system revisions).`
+*`This is our general changelog (e.g., new chapter contents added, rules changed, or major system revisions).`*
 
-`Each chapter has its own detailed changelog for chapter-specific updates.`
+*`Each chapter has its own detailed changelog for chapter-specific updates.`*
+
+*Adapt to your project...*
 
 - X
 - Y

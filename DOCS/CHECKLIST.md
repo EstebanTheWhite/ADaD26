@@ -1,4 +1,4 @@
-# Self-Study Checklist
+# Checklist: Self-Study Assignments
 
 ## 1. The Fellowship Companion
 

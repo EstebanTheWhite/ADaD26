@@ -1,6 +1,6 @@
 # Application Design & Development
 
-`The Fellowship of the Code – A Developer's Tale`
+*`The Fellowship of the Code – A Developer's Tale`*
 
 Welcome to the central hub for the **Application Design & Development** course.  
 This repository is intended to provide all materials, templates, guides, and references to support **the Fellowship of the Code**.
@@ -8,19 +8,20 @@ This repository is intended to provide all materials, templates, guides, and ref
 **Table of Contents**
 
 - [Application Design \& Development](#application-design--development)
-  - [Why This Course Exists](#why-this-course-exists)
-  - [How We Teach](#how-we-teach)
-  - [Phases \& Modules](#phases--modules)
-  - [Learning Outcomes](#learning-outcomes)
-  - [How to Use This Repository](#how-to-use-this-repository)
-  - [Links](#links)
-  - [Narrative](#narrative)
-  - [License](#license)
-  - [Changelog](#changelog)
+  - [1. Why This Course Exists](#1-why-this-course-exists)
+  - [2. How We Will Work](#2-how-we-will-work)
+  - [3. Learning Outcomes](#3-learning-outcomes)
+  - [4. Phases \& Modules](#4-phases--modules)
+  - [5. Narrative](#5-narrative)
+  - [6. The Fellowship Companion](#6-the-fellowship-companion)
+  - [7. How to Use This Repository](#7-how-to-use-this-repository)
+  - [8. Links](#8-links)
+  - [9. License](#9-license)
+  - [10. Changelog](#10-changelog)
 
 ---
 
-## Why This Course Exists
+## 1. Why This Course Exists
 
 Software development is no longer only for coders. For business & IT students, understanding **how developers think, plan, and implement software** is crucial for effective communication, management, and decision-making.  
 
@@ -29,93 +30,112 @@ Software development is no longer only for coders. For business & IT students, u
 - **Developer mindset:** thinking like a developer to collaborate and lead projects.
 - **AI-assisted development:** using AI tools responsibly to accelerate understanding.
 - **Hands-on practice:** creating artifacts and a final integrated system, **the Fellowship Companion**.
-- **Reflection:** documenting learning, AI experiences, and lessons in **the Red Book of Westmarch**.
+- **Reflection:** documenting learning, AI experiences, and lessons in **The Red Book of Westmarch**.
 
 ---
 
-## How We Teach
+## 2. How We Will Work
 
-- Four modules, six physical lessons, multiple self-study assignments
+- Four modules, six lessons, multiple self-study assignments
 - **Peer engagement** and **gamification** to motivate intrinsic participation.  
 - All work occurs on **GitHub & Codespaces**; artifacts are versioned and shared.  
 - **Each homework consists of two parts:**
   1. **Doing** - Creating a concrete artifact (flow, wireframe, web page, automation, ...).  
-  2. **Reflecting & Sharing** - Updating **the Red Book of Westmarch**, documenting the process and AI usage, and sharing work and insights with peers.
+  2. **Reflecting & Sharing** - Updating **The Red Book of Westmarch**, documenting the process and AI usage, and sharing work and insights with peers.
 
 ---
 
-## Phases & Modules
+## 3. Learning Outcomes
 
- Phase | Module | Focus | Key Artifacts |
- ----- | ------ | ----- | ------------- |
- 1 | Application Concept | Developer mindset & requirements | Conceptual foundation, the Red Book |
- 2 | Application Design | UX/UI, flows, wireframes, HTML & CSS | User decision flow, interface design, static interface, the Red Book chapter 1 & 2 |
- 3 | Application Logic | Code comprehension, JavaScript, Libraries & Frameworks, APIs | Dynamic interface, automation/extension, the Red Book chapter 3 & 4 |
- 4 | Application Synthesis | Integration, review, final system | Integrated Fellowship Companion, the Red Book chapter 5 |
+- Understand **software concepts and lifecycle**.
+- Think and communicate like a developer.
+- **Translate requirements** into flows, designs, and code.
+- **Implement static and dynamic artifacts** using HTML, CSS, JavaScript, and low-code tools.
+- **Reflect on AI assistance** and collaborative development.
+- Integrate modular components into a complete system.
+
+---
+
+## 4. Phases & Modules
+
+ Phase | Module | Lessons | Focus | Key Artifacts |
+ ----- | ------ | ------- | ----- | ------------- |
+ 1 | Application Concept | Understanding | Software fundamentals & concepts, roles & responsibilities, software lifecycle | Conceptual foundation, The Red Book |
+ 2 | Application Design | Deciding, Representing | User Experience (UX) & User Interface (UI), decisions, flows & designs, assumptions & constraints, web fundamentals & concepts, HTML & CSS basics | User decision flow, interface design, static interface, The Red Book chapter 1 & 2 |
+ 3 | Application Logic | Modeling, Connecting | Development fundamentals & concepts, Libraries & Frameworks, third-party tools & automation, APIs & integration, JavaScript basics | Dynamic interface, automation/extension, The Red Book chapter 3 & 4 |
+ 4 | Application Synthesis | Reviewing | Integration, extension, review | Integrated Fellowship Companion, The Red Book chapter 5 |
 
 > Each homework builds toward **the Fellowship Companion**, a digital system designed to support the journey (of the Fellowship) with planning, communication, decision-making, and resource management.
 
+ ---
+
+## 5. Narrative
+
+- You are **hobbits on a journey**, building a tool for the Fellowship's quest.
+- Each phase corresponds to a stage of the journey, with LOTR quotes, examples and locations guiding learning and reflection.
+- Students document their learning and AI reflections in **The Red Book of Westmarch**.
+
+**Why a [(LOTR) Narrative](DOCS/NARRATIVE.md)?**
+
+This course uses a shared system narrative as a learning scaffold grounded in **constructivist learning theory** (Lev Vygotsky) and **cognitive load theory** (John Sweller). By keeping the problem context constant, students can build and refine a single mental model across multiple artifacts rather than producing isolated solutions, supporting active knowledge construction. The narrative reduces extraneous cognitive load and enables deeper reasoning about system behavior, constraints, and trade-offs, in line with research emphasizing the need for **structured guidance in complex learning environments** (Paul A. Kirschner). It is used not for entertainment (alone), but to enforce coherence, comparability, and rigor in design work.
+
 ---
 
-## Learning Outcomes
+## 6. The Fellowship Companion
 
-- Understand software concepts and lifecycle.  
-- Think and communicate like a developer.  
-- Translate requirements into flows, designs, and code.  
-- Implement static and dynamic artifacts using HTML, CSS, JavaScript, and low-code tools.  
-- Reflect on AI assistance and collaborative development.  
-- Integrate modular components into a complete system.  
+*`Throughout this course, you will work as part of they Fellowship supporting it on its journey from the Shire to Mordor.
+The Fellowship is already on the move. Your task is not to simulate the journey - but to support it while it is happening.`*
+
+**You will build [the Fellowship Companion](SYSTEMBRIEF.md):** a small digital product that helps the Fellowship make decisions, stay aligned, manage resources, and adapt to changing conditions along the way.
 
 ---
 
-## How to Use This Repository
+## 7. How to Use This Repository
 
-    ADaD26/
+    The Fellowship of the Code 2026/
     │
-    ├── README.md                       ← Generic class overview
-    ├── FAQ.md                          ← F.A.Q.
-    ├── HOWTO.md                        ← GitHub & the Red Book of Westmarch Guide
-    ├── CHECKLIST.md                    ← Assignments Checklist
-    ├── TEMPLATES/
-    │   ├── student_system_template.md  ← Student system template
-    │   └── student_chapter_template.md ← Student chapter template
-    ├── MATERIALS/
-    └── EXAMPLES/
+    ├─ README.md  ← Course overview
+    ├─ LICENSE.md ← License information
+    ├─ DOCS
+    │   ├─ SYSTEMBRIEF.md ← Brief: The Fellowship Companion
+    │   ├─ NARRATIVE.md   ← Narrative: The Fellowship of the Code (The Lord of the Rings)
+    │   ├─ FAQ.md         ← F.A.Q.
+    │   ├─ HOWTO.md       ← Guide: GitHub & The Red Book of Westmarch
+    │   ├─ CHECKLIST.md   ← Checklist: Self-Study Assignments
+    ├─ TEMPLATES/
+    │   ├─ student_system.md  ← Template: The Red Book of Westmarch
+    │   └─ student_chapter.md ← Template: A chapter in The Red Book of Westmarch
+    ├─ MATERIALS/
+    └─ EXAMPLES/
 
-> All homework submissions link back to student repos via GitHub, using the standard folder structure for artifacts and Red Book updates.
+*`All homework submissions link back to student repos via GitHub, using the standard folder structure for artifacts and Red Book updates.`*
 
 ---
 
-## Links
+## 8. Links
 
-- [F.A.Q.](FAQ.md)
-- [GitHub & the Red Book of Westmarch Guide](HOWTO.md)
-- [Assignments Checklist](CHECKLIST.md)
-- [Student System Template](TEMPLATES/student_system_template.md)
-- [Students Chapter Template](TEMPLATES/student_chapter_template.md)
+- [Brief: The Fellowship Companion](DOCS/SYSTEMBRIEF.md)
+- [Narrative: The Fellowship of the Code (The Lord of the Rings)](DOCS/NARRATIVE.md)
+- [F.A.Q.](DOCS/FAQ.md)
+- [Guide: GitHub & The Red Book of Westmarch](DOCS/HOWTO.md)
+- [Checklist: Self-Study Assignments](DOCS/CHECKLIST.md)
+- [Template: The Red Book of Westmarch](TEMPLATES/student_system.md)
+- [Template: A chapter in The Red Book of Westmarch](TEMPLATES/student_chapter.md)
 - [License](LICENSE.md)
 
 ---
 
-## Narrative
-
-- You are **hobbits on a journey**, building a tool for the Fellowship's quest.
-- Each phase corresponds to a stage of the journey, with LOTR quotes guiding learning and reflection.
-- Students document their learning and AI reflections in **the Red Book of Westmarch** per phase.
-
----
-
-## License
+## 9. License
 
 This repository is licensed under [**CC BY-NC-ND 4.0**](LICENSE.md).
 
-You are welcome to read and reference this material.
-You may not copy, modify, or submit it (or parts of it) as your own work.
+*`You are welcome to read and reference this material. You may not copy, modify, or submit it (or parts of it) as your own work.`*
 
 ---
 
-## Changelog
+## 10. Changelog
 
  Version|Date|Notes|
  -------|----|-----|
  1.0|2026-02-24|Initial version of this repository, templates, and guidance|
+ 1.1|2026-02-25|Added license information and a system brief (TFC); improved wording and structure|

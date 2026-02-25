@@ -1,7 +1,6 @@
 # The Red Book of Westmarch - Chapter X: Title
 
-`LOTR Quote relevant to the homework or artifact`
-`"..." - Character`
+*`LOTR Quote relevant to the homework or artifact` `"..." - Character`*
 
 **Table of Contents**
 
@@ -20,6 +19,8 @@ It shows **what was added, why it was added, and how it fits into the larger sys
 
 **Learning Outcomes**
 
+*Adapt to your chapter...*
+
 - Understand [concept / skill of the phase]
 - Apply [tool / language / logic] to build [artifact]
 - Reflect on AI-assisted development and decision-making
@@ -29,28 +30,20 @@ It shows **what was added, why it was added, and how it fits into the larger sys
 
 ## Artifact
 
-**File:**
-
-[Name](Link)
+**File:** [Name](Link)
 
 **Tasks:**
 
-1. **Fellowship Companion Artifact**
-   - Build... [Mermaid flow / wireframe / HTML + CSS page / JavaScript page / low-code extension]
-   - Focus... [specific feature of the system / requirement addressed]
-   - File... in `/design` or `/code` (link to file)
+*Adapt to your chapter...*
 
-2. **Red Book Update**
-   - Update `/chapters/chapter-x-title.md`
-   - **Include:**
-     - **Artifact description:** what did we build?
-     - **AI reflection:** how AI helped / hindered
-     - **Changelog:** what changed since last chapter
-     - **Learning notes:** what we understood, challenges, decisions
+- Build... [Mermaid flow / wireframe / HTML + CSS page / JavaScript page / low-code extension]
+- Focus... [specific feature of the system / requirement addressed]
 
 ---
 
 ## AI Assistance
+
+*Adapt to your chapter...*
 
 - What did I expect?
 - What actually happened?
@@ -61,5 +54,7 @@ It shows **what was added, why it was added, and how it fits into the larger sys
 ---
 
 ## Lessons Learned
+
+*Adapt to your chapter...*
 
 - Insights, challenges, reflections

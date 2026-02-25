@@ -7,7 +7,7 @@
   - [Q2: Can I use AI for everything?](#q2-can-i-use-ai-for-everything)
   - [Q3: How do I submit homework?](#q3-how-do-i-submit-homework)
   - [Q4: What is the Red Book of Westmarch?](#q4-what-is-the-red-book-of-westmarch)
-  - [Q5: How does gamification work?](#q5-how-does-gamification-work)
+  - [Q5: How does gamification in this course work?](#q5-how-does-gamification-in-this-course-work)
   - [Q6: How do I structure artifacts in GitHub?](#q6-how-do-i-structure-artifacts-in-github)
   - [Q7: How should I prepare for the next lecture?](#q7-how-should-i-prepare-for-the-next-lecture)
   - [Q8: What if I miss a deadline?](#q8-what-if-i-miss-a-deadline)
@@ -60,19 +60,19 @@
 
 **Is the Red Book (README updates) graded?**
 
-> No - but it is mandatory!
+*`No - but it is mandatory!`*
 
-**Think of it as:**
+**Think of it as...**
 
-- The shared memory of your project
-- The place where your learning becomes visible
+- ... the shared memory of your project
+- ... the place where your learning becomes visible
 
-**If you do not maintain it:**
+**If you do not maintain it...**
 
-- You still receive points
-- ...but you will receive minimal feedback
+- ... you still receive points
+- ... but you will receive minimal feedback
 
-## Q5: How does gamification work?
+## Q5: How does gamification in this course work?
 
 - Share your artifacts on the peer platform ([Lord of the Tweets](https://www.nafra.at/adad_st2026/)).
 - Comment/like others' work.
@@ -93,7 +93,7 @@
 - Discussion
 - Informal rewards (surprises, recognition, influence)
 
-*You cannot "fail" by participating - only by disappearing.*
+*`You cannot "fail" by participating - only by disappearing.`*
 
 ## Q6: How do I structure artifacts in GitHub?
 
@@ -128,7 +128,7 @@
 
 ## Q11: Is there one correct solution?
 
-> No.
+*`No.`*
 
 **There are:**
 
@@ -136,7 +136,7 @@
 - Clear constraints
 - Clear learning goals
 
-> But there is no single correct product.
+*`But there is no single correct product.`*
 
 Two students can submit very different artifacts and both receive full points ...if:
 
@@ -146,7 +146,7 @@ Two students can submit very different artifacts and both receive full points ..
 
 ## Q12: How creative am I allowed to be?
 
-> Creativity is welcome - clarity comes first.
+*`Creativity is welcome - clarity comes first.`*
 
 **If your idea is:**
 
@@ -154,13 +154,12 @@ Two students can submit very different artifacts and both receive full points ..
 - Easy to understand
 - Clearly linked to the assignment
 
-...then it is appropriate.
-
-If creativity makes your work harder to understand, simplify.
+*`...then it is appropriate.`*
+*`If creativity makes your work harder to understand, simplify.`*
 
 ## Q13: How much code do I need to write?
 
-> Less than you think.
+*`Less than you think.`*
 
 **This course is about:**
 
@@ -182,7 +181,7 @@ If creativity makes your work harder to understand, simplify.
 
 ## Q14: What if my homework feels incomplete?
 
-> That is expected.
+*`That is expected.`*
 
 **This course is iterative:**
 
@@ -190,13 +189,13 @@ If creativity makes your work harder to understand, simplify.
 - Later phases refine and extend it
 - Submit what you have, clearly marked, with reflection.
 
-> Incomplete but honest > polished but unclear.
+*`Incomplete but honest > polished but unclear.`*
 
 ## Q14: What happens if I fail a checkpoint (e.g., code review)?
 
 **Checkpoints are:**
 
-- Validation instruments
+- Validation instruments (quizzes, code reviews)
 - Learning moments
 
 **If issues are found:**
@@ -204,16 +203,16 @@ If creativity makes your work harder to understand, simplify.
 - They reduce points in the related assignment
 - They guide improvement for later work
 
-> They are not traps.
+*`They are not traps.`*
 
 ## Q15: Who should I ask if I'm stuck?
 
 **In this order:**
 
 - This GitHub repository (in full)
-- Your own README / Red Book
+- Your own README (Red Book)
 - AI (with reflection)
 - Your instructor
 - Your peers
 
-> Being stuck is part of the process - staying stuck silently is not.
+*`Being stuck is part of the process - staying stuck silently is not.`*
