@@ -137,5 +137,5 @@ This repository is licensed under [**CC BY-NC-ND 4.0**](LICENSE.md).
 
  Version|Date|Notes|
  -------|----|-----|
- 1.0|2026-02-24|Initial version of this repository, templates, and guidance|
- 1.1|2026-02-25|Added license information and a system brief (TFC); improved wording and structure|
+ 1.0|2026-02-24|Initial version of this repository, templates, and guidance (howto, f.a.q. and checklist)|
+ 1.1|2026-02-25|Added license information, narrative and a system brief (TFC); improved wording and structure|
