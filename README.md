@@ -25,6 +25,7 @@ This repository is intended to provide all materials, templates, guides, and ref
 Software development is no longer only for coders. For business & IT students, understanding **how developers think, plan, and implement software** is crucial for effective communication, management, and decision-making.  
 
 **This course emphasizes:**
+
 - **Developer mindset:** thinking like a developer to collaborate and lead projects.
 - **AI-assisted development:** using AI tools responsibly to accelerate understanding.
 - **Hands-on practice:** creating artifacts and a final integrated system, **the Fellowship Companion**.
@@ -46,7 +47,7 @@ Software development is no longer only for coders. For business & IT students, u
 ## Phases & Modules
 
  Phase | Module | Focus | Key Artifacts |
--------|--------|-------|---------------|
+ ----- | ------ | ----- | ------------- |
  1 | Application Concept | Developer mindset & requirements | Conceptual foundation, the Red Book |
  2 | Application Design | UX/UI, flows, wireframes, HTML & CSS | User decision flow, interface design, static interface, the Red Book chapter 1 & 2 |
  3 | Application Logic | Code comprehension, JavaScript, Libraries & Frameworks, APIs | Dynamic interface, automation/extension, the Red Book chapter 3 & 4 |
@@ -115,6 +116,6 @@ You may not copy, modify, or submit it (or parts of it) as your own work.
 
 ## Changelog
 
-| Version | Date | Notes |
-|---------|------|------|
-| 1.0 | 2026-02-24 | Initial version of this repository, templates, and guidance |
+ Version|Date|Notes|
+ -------|----|-----|
+ 1.0|2026-02-24|Initial version of this repository, templates, and guidance|

@@ -126,7 +126,6 @@
 - No, you work as a group.
 - Groups are allowed to collaborate for discussion purposes only, not for submitting shared artifacts.
 
-
 ## Q11: Is there one correct solution?
 
 > No.

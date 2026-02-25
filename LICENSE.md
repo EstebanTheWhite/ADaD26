@@ -12,4 +12,4 @@
 - NonCommercial - You may not use the material for commercial purposes.
 - NoDerivatives - You may not distribute modified material.
 
-**Full license text:** https://creativecommons.org/licenses/by-nc-nd/4.0/
+**Full license text:** [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)

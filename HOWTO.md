@@ -40,30 +40,30 @@ Every phase includes a **Red Book update**, reflecting on:
 - AI assistance used (explanations, modifications)  
 - Lessons learned  
 
-**Structure:** 
+**Structure:**
 
-```markdown
-# the Red Book of Westmarch - Chapter X: Title
+    ```markdown
+    # the Red Book of Westmarch - Chapter X: Title
 
-## Summary
+    ## Summary
 
-- Brief description of the artifact and its purpose.
+    - Brief description of the artifact and its purpose.
 
-## Artifact
+    ## Artifact
 
-- Link to the artifact
-- Tasks
+    - Link to the artifact
+    - Tasks
 
-## AI Assistance
+    ## AI Assistance
 
-- Explanation of AI output
-- Modifications made
-- Limitations
+    - Explanation of AI output
+    - Modifications made
+    - Limitations
 
-## Lessons Learned
+    ## Lessons Learned
 
-- Insights, challenges, reflections
-```
+    - Insights, challenges, reflections
+    ```
 
 Submit updates in `/README.md` and as linked files in `/chapters/`.
 
