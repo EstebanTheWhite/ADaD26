@@ -116,7 +116,7 @@ The Fellowship is already on the move. Your task is not to simulate the journey 
 
 - [Brief: The Fellowship Companion](docs/systembrief.md)
 - [Narrative: The Fellowship of the Code (The Lord of the Rings)](docs/narrative.md)
-- [F.A.Q.](docs/faw.md)
+- [F.A.Q.](docs/faq.md)
 - [Guide: GitHub & The Red Book of Westmarch](docs/howto.md)
 - [Checklist: Self-Study Assignments](docs/checklist.md)
 - [Template: The Red Book of Westmarch](templates/readme.md)
