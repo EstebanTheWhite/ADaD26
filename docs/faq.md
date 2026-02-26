@@ -97,7 +97,7 @@
 
 ## Q6: How do I structure artifacts in GitHub?
 
-        team name/
+        The-FellowShip-of-the-Code-2026/
         │
         ├── README.md ← The Red Book of Westmarch
         ├── chapters/ ← chapters of The Red Book
