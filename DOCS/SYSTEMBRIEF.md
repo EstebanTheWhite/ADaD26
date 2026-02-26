@@ -14,7 +14,7 @@
 
 ## 1. What We are Building
 
-Throughout this course, you will work as part of a development team supporting the Fellowship on its journey from the Shire to Mordor.
+Throughout this course, you will work as part of the Fellowship on its journey from the Shire to Mordor.
 The Fellowship is already on the move. Your task is not to simulate the journey - but to support it while it is happening.
 
 **You will build The Fellowship Companion:** a small digital product that helps the Fellowship make decisions, stay aligned, manage resources, and adapt to changing conditions along the way.
@@ -25,7 +25,7 @@ The Fellowship is already on the move. Your task is not to simulate the journey 
 
 From a product perspective, **the Fellowship Companion is:**
 
-- A decision-support tool
+- A decision-support and communication tool
 - A shared situational overview
 - A living record of the journey
 
@@ -53,9 +53,9 @@ By the end of the course, **the Fellowship Companion should allow a user to:**
 - **Track change over time**
   - Resources increase/decrease
   - Party status changes
-  - Decisions accumulate
+  - Decisions
 - **Share a common understanding**
-  - One interface the whole Fellowship can "read"”"
+  - One interface the whole Fellowship can use and understand
   - No hidden knowledge, no guesswork
 - **Document the journey**
   - Decisions, assumptions, outcomes
@@ -92,4 +92,4 @@ By the end of the course, **the Fellowship Companion should allow a user to:**
 - Consistency matters.
 
 *`The Fellowship is already on the road.`*
-*`Your task is to make sure they don’t walk it blindly.`*
+*`Your task is to make sure they don't walk it blindly.`*

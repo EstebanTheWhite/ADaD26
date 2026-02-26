@@ -17,7 +17,7 @@
 
 ## Purpose of the Fellowship Companion (TFC)
 
-*Adapt to your project...*
+*`Adapt to your project...`*
 
 We are 5 hobbits on our great journey from the Shire to Mordor. Along the way, we need a system to support **our planning, decisions, communication, and survival**.  
 The Fellowship Companion is a **evolving digital tool** we build together. It is not perfect, it is not finished - it evolves as we travel.
@@ -39,36 +39,36 @@ The Fellowship Companion is a **evolving digital tool** we build together. It is
 
 ## Chapters
 
-1. **Chapter I - Situation & Intent**  
+1. **Chapter I - Setting Out**  
    *"I will take the Ring, though I do not know the way." - Frodo*
 
-   [Go to Chapter I →](/chapters/chapter-1-situation-intent.md)
+   [Go to Chapter I →](/chapters/chapter-1-setting-out.md)
 
-2. **Chapter II - Decisions**  
+2. **Chapter II - Paths & Choices**  
    *"All we have to decide is what to do with the time that is given us." - Gandalf*
 
-   [Go to Chapter II →](/chapters/chapter-2-decisions.md)
+   [Go to Chapter II →](/chapters/chapter-2-paths-and-choices.md)
 
-3. **Chapter III - Representation**  
+3. **Chapter III - Making It Visible**  
    *"I like less than half of you half as well as you deserve." - Bilbo*
 
-   [Go to Chapter III →](/chapters/chapter-3-representation.md)
+   [Go to Chapter III →](/chapters/chapter-3-making-it-visible.md)
 
-4. **Chapter IV - Logic & State**  
+4. **Chapter IV - When Things React**  
    *"Even the wise cannot see all ends." - Gandalf*
 
-   [Go to Chapter IV →](/chapters/chapter-4-logic-state.md)
+   [Go to Chapter IV →](/chapters/chapter-4-when-things-react.md)
 
-5. **Chapter V - Integration & Extension**  
+5. **Chapter V - The Tale Completed**  
    *"The tale grew in the telling." - Bilbo*
 
-   [Go to Chapter V →](/chapters/chapter-5-integration-extension.md)
+   [Go to Chapter V →](/chapters/chapter-5-the-tale-completed.md)
 
 ---
 
 ## Key Features of the Fellowship Companion
 
-*Adapt to your project...*
+*`Adapt to your project...`*
 
 - **Journey Planning:** map tasks, flows, and deadlines  
 - **Resource Management:** track fictional "hobbit resources" (food, supplies, morale)  
@@ -84,7 +84,7 @@ The Fellowship Companion is a **evolving digital tool** we build together. It is
 
 *`Each chapter has its own detailed changelog for chapter-specific updates.`*
 
-*Adapt to your project...*
+*`Adapt to your project...`*
 
 - X
 - Y

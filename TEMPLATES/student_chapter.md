@@ -14,12 +14,12 @@
 
 ## Summary
 
+*`Adapt to your project...`*
+
 This chapter focuses on **[one specific requirement or artifact]** of the Fellowship Companion.
 It shows **what was added, why it was added, and how it fits into the larger system**.
 
 **Learning Outcomes**
-
-*Adapt to your chapter...*
 
 - Understand [concept / skill of the phase]
 - Apply [tool / language / logic] to build [artifact]
@@ -30,20 +30,20 @@ It shows **what was added, why it was added, and how it fits into the larger sys
 
 ## Artifact
 
+*`Adapt to your project...`*
+
 **File:** [Name](Link)
 
 **Tasks:**
 
-*Adapt to your chapter...*
-
-- Build... [Mermaid flow / wireframe / HTML + CSS page / JavaScript page / low-code extension]
+- Build... [requirements document / Mermaid flow / wireframe / HTML + CSS page / JavaScript page / low-code extension]
 - Focus... [specific feature of the system / requirement addressed]
 
 ---
 
 ## AI Assistance
 
-*Adapt to your chapter...*
+*`Adapt to your project...`*
 
 - What did I expect?
 - What actually happened?
@@ -55,6 +55,6 @@ It shows **what was added, why it was added, and how it fits into the larger sys
 
 ## Lessons Learned
 
-*Adapt to your chapter...*
+*`Adapt to your project...`*
 
 - Insights, challenges, reflections
