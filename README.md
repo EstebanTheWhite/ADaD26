@@ -40,7 +40,7 @@ Software development is no longer only for coders. For business & IT students, u
 - **Peer engagement** and **gamification** to motivate intrinsic participation.  
 - All work occurs on **GitHub & Codespaces**; artifacts are versioned and shared.  
 - **Each homework consists of two parts:**
-  1. **Doing** - Creating a concrete artifact (flow, wireframe, web page, automation, ...).  
+  1. **Doing** - Creating a concrete artifact (requirements document, flow, wireframe, web page, automation, ...).  
   2. **Reflecting & Sharing** - Updating **The Red Book of Westmarch**, documenting the process and AI usage, and sharing work and insights with peers.
 
 ---
@@ -92,7 +92,7 @@ The Fellowship is already on the move. Your task is not to simulate the journey 
 
 ## 7. How to Use This Repository
 
-    The Fellowship of the Code 2026/
+    The-FellowShip-of-the-Code-2026/
     │
     ├─ README.md  ← Course overview
     ├─ LICENSE.md ← License information
@@ -119,8 +119,8 @@ The Fellowship is already on the move. Your task is not to simulate the journey 
 - [F.A.Q.](DOCS/FAQ.md)
 - [Guide: GitHub & The Red Book of Westmarch](DOCS/HOWTO.md)
 - [Checklist: Self-Study Assignments](DOCS/CHECKLIST.md)
-- [Template: The Red Book of Westmarch](TEMPLATES/student_system.md)
-- [Template: A chapter in The Red Book of Westmarch](TEMPLATES/student_chapter.md)
+- [Template: The Red Book of Westmarch](TEMPLATES/readme.md)
+- [Template: A chapter in The Red Book of Westmarch](TEMPLATES/chapter.md)
 - [License](LICENSE.md)
 
 ---
@@ -139,3 +139,4 @@ This repository is licensed under [**CC BY-NC-ND 4.0**](LICENSE.md).
  -------|----|-----|
  1.0|2026-02-24|Initial version of this repository, templates, and guidance (howto, f.a.q. and checklist)|
  1.1|2026-02-25|Added license information, narrative and a system brief (TFC); improved wording and structure|
+ 1.2|2026-02-26|Improved wording and structure|

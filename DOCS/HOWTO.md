@@ -1,12 +1,12 @@
-# Guide: GitHub & The Red of Westmarch
+# Guide: GitHub & The Red Book of Westmarch
 
 This guide explains how to **work, submit, and document your work** for the **Application Design & Development** course.
 
 **Table of Contents**
 
-- [Guide: GitHub \& The Red of Westmarch](#guide-github--the-red-of-westmarch)
-  - [1. Setting up Your Repository](#1-setting-up-your-repository)
-  - [2. Updating The Red](#2-updating-the-red)
+- [Guide: GitHub \& The Red Book of Westmarch](#guide-github--the-red-book-of-westmarch)
+  - [1. Setting up Your Development Environment](#1-setting-up-your-development-environment)
+  - [2. Updating The Red Book](#2-updating-the-red-book)
   - [3. Submission \& Workflow](#3-submission--workflow)
   - [4. Networking \& Peer Feedback (Lord of the Tweets)](#4-networking--peer-feedback-lord-of-the-tweets)
   - [5. AI Usage Guidelines](#5-ai-usage-guidelines)
@@ -15,24 +15,39 @@ This guide explains how to **work, submit, and document your work** for the **Ap
 
 ---
 
-## 1. Setting up Your Repository
+## 1. Setting up Your Development Environment
 
-1. Create your initial project repository on GitHub.
-2. Ensure the **folder structure** matches the following template:
+1. Create a new GitHub account: [github.com/join](https://github.com/join).
+   1. Set your GitHub username to your team name.
+2. Create a new repository named **The-FellowShip-of-the-Code-2026**.
+3. Initialize the repository with a `README.md` file.
+4. Create the following project structure in the repository:
 
-        team name/
+        The-FellowShip-of-the-Code-2026/
         │
-        ├── README.md ← The Red of Westmarch
-        ├── chapters/ ← chapters of The Red
-        ├── docs/     ← Supporting documents (*.md files)
-        ├── designs/  ← Flows, wireframes (images, mermaid.md files)
-        ├── code/     ← code (*.html, *.css, *.js files)
+        ├── README.md   ← The Red Book of Westmarch (main entry)
+        ├── chapters/   ← chapters of The Red Book
+        ├── docs/       ← supporting documents (*.md)
+        ├── designs/    ← flows, wireframes (images, mermaid.md)
+        ├── code/       ← implementation (*.html, *.css, *.js)
 
-3. Use **Codespaces** for development.  
+5. Open the repository in **GitHub Codespaces**:
+   - In GitHub, open your repository.
+   - Click **Code** -> **Codespaces** -> **Create codespace on main**.
+   - Wait until VS Code (web) starts.
+6. Fill `README.md` using our [template](TEMPLATES/readme.md):
+   - Open `TEMPLATES/readme.md`.
+   - Copy the structure/content into your repository root `README.md`.
+   - Replace placeholders with your team-specific content.
+7. Install these minimal VS Code extensions in Codespaces:
+   - **Markdown All in One**
+   - **Markdown Preview Mermaid Support**
+   - **markdownlint**
+8. Commit and push your setup so your repository is ready for class work.
 
 ---
 
-## 2. Updating The Red
+## 2. Updating The Red Book
 
 Every phase includes a **Red Book update**, reflecting on:
 
@@ -41,9 +56,11 @@ Every phase includes a **Red Book update**, reflecting on:
 - AI assistance used (explanations, modifications, limitations)
 - Lessons learned
 
+Please refer to our [official chapter template](TEMPLATES/chapter.md).
+
 **Structure:**
 
-    # The Red of Westmarch - Chapter X: Title
+    # The Red Book of Westmarch - Chapter X: Title
 
     ## Summary
 
@@ -67,7 +84,7 @@ Submit updates in `/README.md` and as linked files in `/chapters/`.
 ## 3. Submission & Workflow
 
 - All deliverables live in your repository in the correct folders.
-- Each homework assignment has a deadline and must be stored here on GitHub and submitted in MS Teams.
+- Each homework assignment has a deadline and must be stored on GitHub and the GitHub link (assignment/chapter specific) must then be submitted in MS Teams.
 - Red Book update is mandatory but not graded (used for feedback & peer engagement).
 - Keep your artifact separate from the reflection, but always link them.
 - Peer sharing occurs on the gamification platform: comment and like others' work (intrinsic rewards only).
@@ -81,7 +98,7 @@ Submit updates in `/README.md` and as linked files in `/chapters/`.
 ## 5. AI Usage Guidelines
 
 - AI is allowed and encouraged for coding, design, and logic tasks.
-- You must document outputs, limitations, and modifications in The Red.
+- You must document outputs, limitations, and modifications in The Red Book.
 - You should be able to explain what the AI produced, not just copy results.
 
 **We are not interested in:**
@@ -116,6 +133,6 @@ Submit updates in `/README.md` and as linked files in `/chapters/`.
 - Think like a developer: clarity, structure, and purpose matter more than fancy code.
 - Commit often with meaningful messages.
 - Keep artifacts organized and named consistently.
-- Update The Red after each task (it tracks your journey).
+- Update The Red Book after each task (it tracks your journey).
 - Check the templates in TEMPLATES/ for formatting guidance.
 - Use the LOTR narrative to make your documentation memorable and interesting.

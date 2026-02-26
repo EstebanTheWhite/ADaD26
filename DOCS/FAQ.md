@@ -97,9 +97,14 @@
 
 ## Q6: How do I structure artifacts in GitHub?
 
-- `chapters/` ← chapters of the Red Book
-- `designs/`  ← Flows, wireframes
-- `code/`     ← HTML, CSS, JS code
+        team name/
+        │
+        ├── README.md ← The Red Book of Westmarch
+        ├── chapters/ ← chapters of The Red Book
+        ├── docs/     ← Supporting documents (*.md files)
+        ├── designs/  ← Flows, wireframes (images, mermaid.md files)
+        ├── code/     ← code (*.html, *.css, *.js files)
+
 - Update `/README.md` and linked chapters for Red Book reflection
 
 ## Q7: How should I prepare for the next lecture?
