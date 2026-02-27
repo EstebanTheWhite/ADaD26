@@ -32,12 +32,15 @@ It shows **what was added, why it was added, and how it fits into the larger sys
 
 *`Adapt to your project...`*
 
-**File:** [Name](Link)
+**File:** `[Name](Link)`
 
-**Tasks:**
+**Build:**
 
-- Build... [requirements document / Mermaid flow / wireframe / HTML + CSS page / JavaScript page / low-code extension]
-- Focus... [specific feature of the system / requirement addressed]
+... [requirements document / Mermaid flow / wireframe / HTML + CSS page / JavaScript page / low-code extension]
+
+**Focus:**
+
+... [specific feature of the system / requirement addressed]
 
 ---
 

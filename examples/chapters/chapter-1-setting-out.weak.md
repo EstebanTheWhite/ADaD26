@@ -1,10 +1,12 @@
-# The Red Book of Westmarch - Chapter I: Weak Title
+# The Red Book of Westmarch - Chapter I: Setting Out
+
+*`(For demonstration purposes only)`*
 
 *`LOTR Quote relevant to the homework or artifact` `"..." - Character`*
 
 **Table of Contents**
 
-- [The Red Book of Westmarch - Chapter I: Weak Title](#the-red-book-of-westmarch---chapter-i-weak-title)
+- [The Red Book of Westmarch - Chapter I: Setting Out](#the-red-book-of-westmarch---chapter-i-setting-out)
   - [Summary](#summary)
   - [Artifact](#artifact)
   - [AI Assistance](#ai-assistance)
@@ -29,15 +31,15 @@ The Fellowship Companion is an app that helps the Fellowship on their journey. I
 
 *`Adapt to your project...`*
 
-**File:** [Name](Link)
+**File:** `[The Fellowship Companion - Artifact I: Situation & Intent](/artifacts/artifact-1-situation-intent.md)`
 
-**Tasks:**
+**Build:**
 
-- **Build:**
-  - We described the idea of the app.
+We described the idea of the app.
 
-- **Focus:**
-  - The focus is helping the Fellowship.
+**Focus:**
+
+Helping the Fellowship.
 
 ---
 
@@ -57,9 +59,11 @@ The Fellowship Companion is an app that helps the Fellowship on their journey. I
 - I learned how important software is and how AI can help.
 - This task was interesting.
 
+---
+---
+
 ## Why this is weak
 
-- Weak title
 - No quote
 - Comments are still in place (e.g., "Adapt to your project...")
 - Vague language ("help", "make things easier")

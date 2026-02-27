@@ -33,7 +33,7 @@ The Fellowship Companion is a **evolving digital tool** we build together. It is
 - All artifacts live in **this GitHub repo**.  
 - Gandalf (the AI) is our companion: we may ask him for help, but we always **reflect on our decisions** in The Red Book.  
 - Peer sharing is optional but highly recommended: it **keeps the Fellowship alive**.  
-- **The Red Book of Westmark** (`README.md` + `/chapters/`) is our reflection log and living changelog.
+- **The Red Book of Westmark** (`README.md` + `/chapters`) is our reflection log and living changelog.
 
 ---
 

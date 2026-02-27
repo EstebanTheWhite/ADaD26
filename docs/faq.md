@@ -74,14 +74,13 @@
 
 ## Q5: How does gamification in this course work?
 
-- Share your artifacts on the peer platform ([Lord of the Tweets](https://www.nafra.at/adad_st2026/)).
-- Comment/like others' work.
+- Share your artifacts (not your chapters) on the peer platform ([Lord of the Tweets](https://www.nafra.at/adad_st2026/)).
+  - Use the specific GutHub pages link (e.g., `https://username.github.io/The-FellowShip-of-the-Code-2026/chapters/chapter-1-setting-out.html`).
+- Engage with others' work (comment/like).
 - No grades are attached; motivation is intrinsic.
 - Top participants will receive recognition/prizes.
 
 **Why do we do peer sharing / gamification if it's not graded?**
-
-**Because:**
 
 - Real development includes communication
 - Explaining your work deepens understanding
@@ -97,13 +96,13 @@
 
 ## Q6: How do I structure artifacts in GitHub?
 
-        The-FellowShip-of-the-Code-2026/
+        The-Fellowship-of-the-Code-2026/
         │
-        ├── README.md ← The Red Book of Westmarch
-        ├── chapters/ ← chapters of The Red Book
-        ├── docs/     ← Supporting documents (*.md files)
-        ├── designs/  ← Flows, wireframes (images, mermaid.md files)
-        ├── code/     ← code (*.html, *.css, *.js files)
+        ├── README.md  ← The Red Book of Westmarch (main entry)
+        ├── chapters/  ← chapters of The Red Book
+        └── artifacts/ ← artifacts of The Fellowship Companion
+             ├── designs/ ← flows, wireframes (images, mermaid.md)
+             └── code/    ← implementation (*.html, *.css, *.js)
 
 - Update `/README.md` and linked chapters for Red Book reflection
 
