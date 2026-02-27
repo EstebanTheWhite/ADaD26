@@ -12,13 +12,13 @@ I chose this because decisions are important in the journey.
 
 `[Flow](/designs/flow-1-decisions.mermaid.md)`
 
-For this example see [flow-1-decisions.weak.mermaid.md](/designs/flow-1-decisions.weak.mermaid.md)
+>For this example see [flow-1-decisions.weak.mermaid.md](https://github.com/EstebanTheWhite/The-FellowShip-of-the-Code-2026/blob/main/examples/artifacts/designs/flow-1-decisions.weak.mermaid.md)
 
 ## Wireframe
 
 `[Wireframe](/designs/wireframe-1-decisions.png)`
 
-For this example see [wireframe-1-decisions.weak.png](/designs/wireframe-1-decisions.weak.png)
+>For this example see [wireframe-1-decisions.weak.png](/designs/wireframe-1-decisions.weak.png)
 
 ## Design Rationale
 
