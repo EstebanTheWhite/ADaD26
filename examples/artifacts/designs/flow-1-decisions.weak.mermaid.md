@@ -1,4 +1,4 @@
-# The Fellowship Companion - Artifact 2: Flowchart
+# The Fellowship Companion - Artifact II: Flowchart
 
 ```mermaid
 flowchart TD

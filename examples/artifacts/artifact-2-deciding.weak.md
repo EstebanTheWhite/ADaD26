@@ -1,4 +1,4 @@
-# The Fellowship Companion - Artifact 2: Deciding
+# The Fellowship Companion - Artifact II: Deciding
 
 *`(For demonstration purposes only)`*
 
