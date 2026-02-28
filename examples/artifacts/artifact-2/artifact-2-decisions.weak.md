@@ -54,7 +54,7 @@ I did not include too many details because that would make it complicated. The s
   - No connection to the journey context
     - *It describes a page with a text field and button.*
 - Design rationale lacks thinking
-  - No reference to Homework 1 intent/value
+  - No reference to assignment 1 intent/value
   - No trade-offs discussed
   - *"Keep it simple"* is not a design argument
   - Assumptions are trivial and unexamined

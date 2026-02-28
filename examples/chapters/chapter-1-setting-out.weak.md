@@ -2,7 +2,7 @@
 
 *`(For demonstration purposes only)`*
 
-*`LOTR Quote relevant to the homework or artifact` `"..." - Character`*
+*`LOTR Quote relevant to the assignment or artifact` `"..." - Character`*
 
 **Table of Contents**
 
@@ -65,8 +65,8 @@ Helping the Fellowship.
 ## Why this is weak
 
 - No quote
-- Comments are still in place (e.g., "Adapt to your project...")
-- Vague language ("help", "make things easier")
+- Comments are still in place (e.g., *"Adapt to your project..."*)
+- Vague language (*"help"*, *"make things easier"*)
 - No concrete situation or problem
 - No evidence of decision-making
 - AI reflection is superficial and uncritical

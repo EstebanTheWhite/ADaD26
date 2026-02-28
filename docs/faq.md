@@ -5,7 +5,7 @@
 - [F.A.Q.: The Fellowship of the Code - Course Guide](#faq-the-fellowship-of-the-code---course-guide)
   - [Q1: What if I don't know what to build?](#q1-what-if-i-dont-know-what-to-build)
   - [Q2: Can I use AI for everything?](#q2-can-i-use-ai-for-everything)
-  - [Q3: How do I submit homework?](#q3-how-do-i-submit-homework)
+  - [Q3: How do I submit assignment?](#q3-how-do-i-submit-assignment)
   - [Q4: What is the Red Book of Westmarch?](#q4-what-is-the-red-book-of-westmarch)
   - [Q5: How does gamification in this course work?](#q5-how-does-gamification-in-this-course-work)
   - [Q6: How do I structure artifacts in GitHub?](#q6-how-do-i-structure-artifacts-in-github)
@@ -16,7 +16,7 @@
   - [Q11: Is there one correct solution?](#q11-is-there-one-correct-solution)
   - [Q12: How creative am I allowed to be?](#q12-how-creative-am-i-allowed-to-be)
   - [Q13: How much code do I need to write?](#q13-how-much-code-do-i-need-to-write)
-  - [Q14: What if my homework feels incomplete?](#q14-what-if-my-homework-feels-incomplete)
+  - [Q14: What if my assignment feels incomplete?](#q14-what-if-my-assignment-feels-incomplete)
   - [Q14: What happens if I fail a checkpoint (e.g., code review)?](#q14-what-happens-if-i-fail-a-checkpoint-eg-code-review)
   - [Q15: Who should I ask if I'm stuck?](#q15-who-should-i-ask-if-im-stuck)
 
@@ -46,7 +46,7 @@
   - Include outputs, limitations and modifications in your Red Book.
 - AI is a tool, not a shortcut.
 
-## Q3: How do I submit homework?
+## Q3: How do I submit assignment?
 
 - **Commit artifacts** to your GitHub repo in the proper folder.
 - **Update the Red Boo**k with reflections.
@@ -75,7 +75,7 @@
 ## Q5: How does gamification in this course work?
 
 - Share your artifacts on the peer platform ([Lord of the Tweets](https://www.nafra.at/adad_st2026/)).
-  - Use the specific GutHub pages link (e.g., `https://username.github.io/The-Fellowship-of-the-Code-2026/artifacts/artifact-1/artifact-1-situation-intent.html`).
+  - Use the specific GutHub pages link (e.g., *`https://username.github.io/The-Fellowship-of-the-Code-2026/artifacts/artifact-1/artifact-1-situation-intent.html`*).
     - Not the GitHub repository link (except for "*.mermaid.md" files, here use the repository link)
   - Only share your artifact, not the chapter.
 - Engage with others' work (comment/like).
@@ -110,7 +110,7 @@
 
 ## Q7: How should I prepare for the next lecture?
 
-- Complete homework artifacts and Red Book updates.
+- Complete assignment artifacts and Red Book updates.
 - Review peer submissions.
 - Reflect on challenges, successes, and AI usage.
 - Be ready to discuss your artifacts and explain AI outputs in class.
@@ -119,11 +119,11 @@
 ## Q8: What if I miss a deadline?
 
 - Contact the instructor.
-- Late homework may reduce points in **homework grading**, but Red Book updates remain a required part of the record.
+- Late assignment may reduce points in **assignment grading**, but Red Book updates remain a required part of the record.
 
 ## Q9: Do I need to complete every Red book update?
 
-- Yes, each homework reflection is mandatory.
+- Yes, each assignment reflection is mandatory.
 - These are **not graded**, but essential for discussion and feedback.
   - If you miss the deadline for submitting your Red Book update, you will only receive points; you will not receive verbal feedback.
 
@@ -185,7 +185,7 @@ Two students can submit very different artifacts and both receive full points ..
 - Explain **why** it exists
 - Explain **how** it fits into the system
 
-## Q14: What if my homework feels incomplete?
+## Q14: What if my assignment feels incomplete?
 
 *`That is expected.`*
 

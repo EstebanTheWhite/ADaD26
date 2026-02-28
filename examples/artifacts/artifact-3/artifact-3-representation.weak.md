@@ -10,17 +10,9 @@ I chose this capability because decisions are important for the Fellowship and t
 
 ## Static Interface Implementation
 
-`[Flow](/code/code-1-representation.html)`
+`[Static Interface](/src/code-1-representation.html)`
 
 > For this example see [code-1-representation.weak.html](/src/code-1-representation.weak.html)
-
-**The interface has:**
-
-- A heading at the top
-- Three buttons underneath
-- Some text
-
-The user can see the options and decide.
 
 ## Design Rationale
 
@@ -35,11 +27,28 @@ This design supports the intent because it lets the user decide things. I follow
 
 - **Capability is too vague:** *"Helps the Fellowship make decisions"* is not a clearly scoped capability.
 - **No concrete context:** No reference to which decision, when, or why it matters in the journey.
-- **No structural thinking:** Mentions *"buttons"* and *"text"* but no explanation of hierarchy or grouping.
-- **HTML treated as decoration:** No discussion of semantic structure or layout intent.
+- **HTML issues:**
+  - No semantic structure (header, main, section, etc.)
+  - Buttons are not connected to a specific task
+  - No labels, grouping, or hierarchy
+  - Capability is implicit and vague (*"Choose what to do next"*)
+  - No trace of the wireframe beyond *"there are buttons"*
+- **CSS issues:**
+  - Styling is arbitrary (*"make it look okay"*)
+    - No connection to the narrative (LotR)
+  - No layout logic (no flex/grid, no alignment intention)
+  - Visual hierarchy is accidental
+  - Colors have no meaning
+- **Conceptual issues:**
+  - The interface does not clearly represent:
+    - What decision is being made?
+    - Why now?
+    - What information supports the decision?
+  - Could belong to any app, not this system
+  - The UI does not express intent - it merely exists
 - **Design rationale is superficial:** Restates the assignment constraints instead of reflecting on decisions.
 - **Assumptions are not examined:** *"I assume the Fellowship knows how to use it"* avoids responsibility instead of reasoning.
-- **No linkage:** Weak or missing connection to Homework 1 (intent/value) and Homework 2 (wireframe).
+- **No linkage:** Weak or missing connection to assignment 1 (intent/value) and assignment 2 (wireframe).
 - **Reads like a checklist:** Not like a considered design step in a larger system.
 
 *`This example is not entirely wrong, but it is very generic and would be very hard to build on in later assignments.`*

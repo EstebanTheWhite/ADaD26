@@ -63,7 +63,7 @@ By the end of the course, **the Fellowship Companion should allow a user to:**
 
 ## 4. How Your Assignments Contribute
 
-**Each homework delivers a piece of the Companion**, not a standalone exercise:
+**Each assignment delivers a piece of the Companion**, not a standalone exercise:
 
 - You will map decisions before they are taken
 - Design interfaces that make information usable

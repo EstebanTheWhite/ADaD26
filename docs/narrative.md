@@ -47,7 +47,7 @@ The Fellowship Companion is the **digital support system for the journey**.
 
 The [system brief](/docs/systembrief.md) details the specifics of the system, while this narrative situates the TFC in the broader journey.
 
-In short, it is **the artifact of the course**, constructed incrementally across homework assignments:
+In short, it is **the artifact of the course**, constructed incrementally across assignment assignments:
 
  Phase | Location | Quote | System Building Metaphor |
  ----- | -------- | ----- | ------------------------ |
@@ -56,7 +56,7 @@ In short, it is **the artifact of the course**, constructed incrementally across
  P3: Application Logic | Moria → Dead Marshes | *"The world is not in your books and maps. It’s out there." - Gandalf* | **Implement logic & interactive features:** code, workflows, external services. |
  P4: Application Synthesis | Mount Doom / Return to Shire | *"The tale grew in the telling." - J.R.R. Tolkien* | **Integrate all artifacts into the Fellowship Companion:** full system, demonstrating cumulative understanding and reflection. |
 
-Each homework contributes directly to the system, ensuring all diagrams, pages, and code are coherent components, rather than isolated exercises.
+Each assignment contributes directly to the system, ensuring all diagrams, pages, and code are coherent components, rather than isolated exercises.
 
 ## 5. The Role of Gandalf (AI)
 

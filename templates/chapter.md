@@ -1,6 +1,6 @@
 # The Red Book of Westmarch - Chapter X: Title
 
-*`LOTR Quote relevant to the homework or artifact` `"..." - Character`*
+*`LOTR Quote relevant to the assignment or artifact` `"..." - Character`*
 
 **Table of Contents**
 

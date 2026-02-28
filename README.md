@@ -39,7 +39,7 @@ Software development is no longer only for coders. For business & IT students, u
 - Four modules, six lessons, multiple self-study assignments
 - **Peer engagement** and **gamification** to motivate intrinsic participation.  
 - All work occurs on **GitHub & Codespaces**; artifacts are versioned and shared.  
-- **Each homework consists of two parts:**
+- **Each assignment consists of two parts:**
   1. **Doing** - Creating a concrete artifact (requirements document, flow, wireframe, web page, automation, ...).  
   2. **Reflecting & Sharing** - Updating **The Red Book of Westmarch**, documenting the process and AI usage, and sharing work and insights with peers.
 
@@ -65,7 +65,7 @@ Software development is no longer only for coders. For business & IT students, u
  3 | Application Logic | Modeling, Connecting | Development fundamentals & concepts, Libraries & Frameworks, third-party tools & automation, APIs & integration, JavaScript basics | Dynamic interface, automation/extension, The Red Book chapter 3 & 4 |
  4 | Application Synthesis | Reviewing | Integration, extension, review | Integrated Fellowship Companion, The Red Book chapter 5 |
 
-> Each homework builds toward **the Fellowship Companion**, a digital system designed to support the journey (of the Fellowship) with planning, communication, decision-making, and resource management.
+> Each assignment builds toward **the Fellowship Companion**, a digital system designed to support the journey (of the Fellowship) with planning, communication, decision-making, and resource management.
 
  ---
 
@@ -110,7 +110,7 @@ The Fellowship is already on the move. Your task is not to simulate the journey 
     │   └─ chapters/
     ├─ materials/
 
-*`All homework submissions link back to student repos via GitHub, using the standard folder structure for artifacts and Red Book updates.`*
+*`All assignment submissions link back to student repos via GitHub, using the standard folder structure for artifacts and Red Book updates.`*
 
 ---
 

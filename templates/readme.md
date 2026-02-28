@@ -2,7 +2,7 @@
 
 *`The Fellowship of the Code – A Developer's Tale`*
 
-*`LOTR Quote relevant to the homework or artifact` `"..." - Character`*
+*`LOTR Quote relevant to the assignment or artifact` `"..." - Character`*
 
 **Table of Contents**
 

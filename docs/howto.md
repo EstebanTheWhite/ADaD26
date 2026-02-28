@@ -90,7 +90,7 @@ Reflect updates in `/README.md` and as linked files in `/chapters/`.
 ## 3. Submission & Workflow
 
 - All deliverables live in your repository in the correct folders.
-- Each homework deliverable must be stored on GitHub and the GitHub repository link (assignment/chapter specific) must then be submitted in MS Teams.
+- Each assignment deliverable must be stored on GitHub and the GitHub repository link (assignment/chapter specific) must then be submitted in MS Teams.
 - Red Book update is mandatory but not graded (used for feedback & peer engagement).
 - Keep your artifact separate from the reflection, but always link them.
 - Peer sharing occurs on our [peer platform](https://www.nafra.at/adad_st2026/): comment and like others' work (intrinsic rewards only).
@@ -98,7 +98,7 @@ Reflect updates in `/README.md` and as linked files in `/chapters/`.
 ## 4. Networking & Peer Feedback (Lord of the Tweets)
 
 - Share your journey on our peer platform ([Lord of the Tweets](https://www.nafra.at/adad_st2026/)).
-  - Use the specific GutHub pages link (e.g., `https://username.github.io/The-Fellowship-of-the-Code-2026/artifacts/artifact-1/artifact-1-situation-intent.html`).
+  - Use the specific GutHub pages link (e.g., *`https://username.github.io/The-Fellowship-of-the-Code-2026/artifacts/artifact-1/artifact-1-situation-intent.html`*).
     - Not the GitHub repository link (except for "*.mermaid.md" files, here use the repository link).
   - Only share your artifact, not the chapter.
 - Engage with others' work (comment/like).
