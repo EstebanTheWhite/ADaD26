@@ -60,9 +60,9 @@ Software development is no longer only for coders. For business & IT students, u
 
  Phase | Module | Lessons | Focus | Key Artifacts |
  ----- | ------ | ------- | ----- | ------------- |
- 1 | Application Concept | Understanding | Software fundamentals & concepts, roles & responsibilities, software lifecycle | Conceptual foundation, The Red Book |
- 2 | Application Design | Deciding, Representing | User Experience (UX) & User Interface (UI), decisions, flows & designs, assumptions & constraints, web fundamentals & concepts, HTML & CSS basics | User decision flow, interface design, static interface, The Red Book chapter 1 & 2 |
- 3 | Application Logic | Modeling, Connecting | Development fundamentals & concepts, Libraries & Frameworks, third-party tools & automation, APIs & integration, JavaScript basics | Dynamic interface, automation/extension, The Red Book chapter 3 & 4 |
+ 1 | Application Concept | Understanding | Software fundamentals & concepts, roles & responsibilities, software lifecycle | Conceptual foundation (requirements), The Red Book of Westmarch |
+ 2 | Application Design | Deciding, Representing | User Experience (UX) & User Interface (UI), decisions, assumptions & constraints, flows & designs, web fundamentals & concepts, HTML & CSS basics | User decision flow, interface design, static interface implementation, The Red Book chapter 1 & 2 |
+ 3 | Application Logic | Modeling, Connecting | Development fundamentals & concepts, Libraries & Frameworks, third-party tools & automation, APIs & integration, JavaScript basics | Dynamic interface implementation, automation/extension, The Red Book chapter 3 & 4 |
  4 | Application Synthesis | Reviewing | Integration, extension, review | Integrated Fellowship Companion, The Red Book chapter 5 |
 
 > Each assignment builds toward **the Fellowship Companion**, a digital system designed to support the journey (of the Fellowship) with planning, communication, decision-making, and resource management.
