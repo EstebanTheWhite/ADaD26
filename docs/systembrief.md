@@ -23,7 +23,7 @@ The Fellowship is already on the move. Your task is not to simulate the journey 
 
 ## 2. What the Companion is (product view)
 
-From a product perspective, **the Fellowship Companion is:**
+From a product perspective, **The Fellowship Companion is:**
 
 - A decision-support and communication tool
 - A shared situational overview
@@ -41,7 +41,7 @@ From a product perspective, **the Fellowship Companion is:**
 
 ## 3. Core Capabilities (MVE)
 
-By the end of the course, **the Fellowship Companion should allow a user to:**
+By the end of the course, **The Fellowship Companion should allow a user to:**
 
 - **Understand the current situation**
   - Where the Fellowship is
@@ -79,7 +79,7 @@ By the end of the course, **the Fellowship Companion should allow a user to:**
   - *`They exist because the journey cannot work without them.`*
 - Code reviews act as validation checkpoints, not as graded deliverables.
   - *`Grades focus on what you build, not on performative effort.`*
-- If you skip the foundations (the Red Book updates), the journey continues - but without guidance.
+- If you skip the foundations (The Red Book updates), the journey continues - but without guidance.
 
 ## 6. Your Role
 

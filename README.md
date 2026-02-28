@@ -3,7 +3,7 @@
 *`The Fellowship of the Code – A Developer's Tale`*
 
 Welcome to the central hub for the **Application Design & Development** course.  
-This repository is intended to provide all materials, templates, guides, and references to support **the Fellowship of the Code**.
+This repository is intended to provide all materials, templates, guides, and references to support **The Fellowship of the Code**.
 
 **Table of Contents**
 
@@ -29,7 +29,7 @@ Software development is no longer only for coders. For business & IT students, u
 
 - **Developer mindset:** thinking like a developer to collaborate and lead projects.
 - **AI-assisted development:** using AI tools responsibly to accelerate understanding.
-- **Hands-on practice:** creating artifacts and a final integrated system, **the Fellowship Companion**.
+- **Hands-on practice:** creating artifacts and a final integrated system, **The Fellowship Companion**.
 - **Reflection:** documenting learning, AI experiences, and lessons in **The Red Book of Westmarch**.
 
 ---
@@ -48,7 +48,7 @@ Software development is no longer only for coders. For business & IT students, u
 ## 3. Learning Outcomes
 
 - Understand **software concepts and lifecycle**.
-- Think and communicate like a developer.
+- **Think and communicate like a developer**.
 - **Translate requirements** into flows, designs, and code.
 - **Implement static and dynamic artifacts** using HTML, CSS, JavaScript, and low-code tools.
 - **Reflect on AI assistance** and collaborative development.
@@ -65,7 +65,7 @@ Software development is no longer only for coders. For business & IT students, u
  3 | Application Logic | Modeling, Connecting | Development fundamentals & concepts, Libraries & Frameworks, third-party tools & automation, APIs & integration, JavaScript basics | Dynamic interface implementation, automation/extension, The Red Book chapter 3 & 4 |
  4 | Application Synthesis | Reviewing | Integration, extension, review | Integrated Fellowship Companion, The Red Book chapter 5 |
 
-> Each assignment builds toward **the Fellowship Companion**, a digital system designed to support the journey (of the Fellowship) with planning, communication, decision-making, and resource management.
+> Each assignment builds toward **The Fellowship Companion**, a digital system designed to support the journey (of the Fellowship) with planning, communication, decision-making, and resource management.
 
  ---
 
@@ -86,7 +86,7 @@ This course uses a shared system narrative as a learning scaffold grounded in **
 *`Throughout this course, you will work as part of they Fellowship supporting it on its journey from the Shire to Mordor.
 The Fellowship is already on the move. Your task is not to simulate the journey - but to support it while it is happening.`*
 
-**You will build [the Fellowship Companion](/docs/systembrief.md):** a small digital product that helps the Fellowship make decisions, stay aligned, manage resources, and adapt to changing conditions along the way.
+**You will build [The Fellowship Companion](/docs/systembrief.md):** a small digital product that helps the Fellowship make decisions, stay aligned, manage resources, and adapt to changing conditions along the way.
 
 ---
 

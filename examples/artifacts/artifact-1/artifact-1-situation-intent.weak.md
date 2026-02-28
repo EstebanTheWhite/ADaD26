@@ -10,7 +10,7 @@ The situation is complex because many things can happen and the world is dangero
 
 ## 2. Intent
 
-The intent of the Fellowship Companion is to help the Fellowship on their journey. The primary users are the Fellowship members.
+The intent of The Fellowship Companion is to help the Fellowship on their journey. The primary users are the Fellowship members.
 
 The application should make it easier for them to work together and succeed. Everything that helps the Fellowship is part of the intent.
 

@@ -27,7 +27,7 @@ This course uses a shared system narrative as a learning scaffold grounded in **
 
 ## 2. Lore and Setting
 
-**Students in this course are Hobbits of the Fellowship of the Code:**
+**Students in this course are Hobbits of The Fellowship of the Code:**
 
 - Each student group represents a cohort of hobbits, small but resourceful, learning to navigate challenges together.
 - The Fellowship Companion (TFC) is a system the hobbits build for themselves to survive and thrive on their journey - from the Shire to the Mount Doom (final assignment + review).
@@ -54,7 +54,7 @@ In short, it is **the artifact of the course**, constructed incrementally across
  P1: Application Concept | The Shire | *"It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to." - Frodo Beutlin* | **Define requirements & scope for the TFC:** what the Fellowship will need to survive and navigate their journey. |
  P2: Application Design | Bree → Rivendell | *"It is the small everyday decisions of ordinary folk that keep the darkness at bay." - Gandalf* | **Plan flows, wireframes, and early static interfaces:** design features of the TFC aligned with the journey. |
  P3: Application Logic | Moria → Dead Marshes | *"The world is not in your books and maps. It’s out there." - Gandalf* | **Implement logic & interactive features:** code, workflows, external services. |
- P4: Application Synthesis | Mount Doom / Return to Shire | *"The tale grew in the telling." - J.R.R. Tolkien* | **Integrate all artifacts into the Fellowship Companion:** full system, demonstrating cumulative understanding and reflection. |
+ P4: Application Synthesis | Mount Doom / Return to Shire | *"The tale grew in the telling." - J.R.R. Tolkien* | **Integrate all artifacts into The Fellowship Companion:** full system, demonstrating cumulative understanding and reflection. |
 
 Each assignment contributes directly to the system, ensuring all diagrams, pages, and code are coherent components, rather than isolated exercises.
 

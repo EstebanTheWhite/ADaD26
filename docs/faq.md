@@ -6,7 +6,7 @@
   - [Q1: What if I don't know what to build?](#q1-what-if-i-dont-know-what-to-build)
   - [Q2: Can I use AI for everything?](#q2-can-i-use-ai-for-everything)
   - [Q3: How do I submit assignment?](#q3-how-do-i-submit-assignment)
-  - [Q4: What is the Red Book of Westmarch?](#q4-what-is-the-red-book-of-westmarch)
+  - [Q4: What is The Red Book of Westmarch?](#q4-what-is-the-red-book-of-westmarch)
   - [Q5: How does gamification in this course work?](#q5-how-does-gamification-in-this-course-work)
   - [Q6: How do I structure artifacts in GitHub?](#q6-how-do-i-structure-artifacts-in-github)
   - [Q7: How should I prepare for the next lecture?](#q7-how-should-i-prepare-for-the-next-lecture)
@@ -26,7 +26,7 @@
 
 - Start from the **requirements in Phase 1** (Red Book: Chapter I).
 - Pick **one feature or component** to implement for this phase.
-- Use AI for help, but **document all decisions** in the Red Book.
+- Use AI for help, but **document all decisions** in The Red Book.
 - Ask your instructors or peers if stuck; peer engagement is encouraged.
 
 **This course does not test whether you already know:**
@@ -52,13 +52,13 @@
 - **Update the Red Boo**k with reflections.
 - **Submit your GitHub link** (assignment/chapter specific) in MS Teams (the GitHub repository is *"only"* a file storage system).
 
-## Q4: What is the Red Book of Westmarch?
+## Q4: What is The Red Book of Westmarch?
 
 - It's your reflective journal, documenting each step of your journey.
 - Includes artifact description, AI discussions, learning, and insights.
 - Always update after every task.
 
-**Is the Red Book (README updates) graded?**
+**Is The Red Book (README updates) graded?**
 
 *`No - but it is mandatory!`*
 
@@ -215,7 +215,7 @@ Two students can submit very different artifacts and both receive full points ..
 
 **In this order:**
 
-- This GitHub repository (in full) (or **Gandalf, AI Steward of the Fellowship of the Code**)
+- This GitHub repository (in full) (or **Gandalf, AI Steward of The Fellowship of the Code**)
 - Your own README (Red Book of Westmarch)
 - AI (with reflection)
 - Your instructor

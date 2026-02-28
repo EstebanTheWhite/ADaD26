@@ -7,15 +7,15 @@
 **Table of Contents**
 
 - [The Fellowship Companion](#the-fellowship-companion)
-  - [Purpose of the Fellowship Companion (TFC)](#purpose-of-the-fellowship-companion-tfc)
+  - [Purpose of The Fellowship Companion (TFC)](#purpose-of-the-fellowship-companion-tfc)
   - [Rules of our Journey](#rules-of-our-journey)
   - [Chapters](#chapters)
-  - [Key Features of the Fellowship Companion](#key-features-of-the-fellowship-companion)
+  - [Key Features of The Fellowship Companion](#key-features-of-the-fellowship-companion)
   - [Changelog](#changelog)
 
 ---
 
-## Purpose of the Fellowship Companion (TFC)
+## Purpose of The Fellowship Companion (TFC)
 
 *`Adapt to your project...`*
 
@@ -66,7 +66,7 @@ The Fellowship Companion is a **evolving digital tool** we build together. It is
 
 ---
 
-## Key Features of the Fellowship Companion
+## Key Features of The Fellowship Companion
 
 *`Adapt to your project...`*
 

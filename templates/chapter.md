@@ -16,7 +16,7 @@
 
 *`Adapt to your project...`*
 
-This chapter focuses on **[one specific requirement or artifact]** of the Fellowship Companion.
+This chapter focuses on **[one specific requirement or artifact]** of The Fellowship Companion.
 It shows **what was added, why it was added, and how it fits into the larger system**.
 
 **Learning Outcomes**
