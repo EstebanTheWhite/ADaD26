@@ -44,9 +44,9 @@ There may be limited time and resources. Trust between members is important.
 
 ## Why this is weak
 
-- Vague language ("help", "support", "make things easier")
+- Vague language (*"help"*, *"support"*, *"make things easier"*)
 - No specific moment in the journey or concrete difficulty
-- Intent is unbounded ("everything that helps")
+- Intent is unbounded (*"everything that helps"*)
 - Value is generic and interchangeable with almost any app
 - Capabilities are abstract labels, not system-enabling statements
 - Assumptions are listed but not connected to design implications

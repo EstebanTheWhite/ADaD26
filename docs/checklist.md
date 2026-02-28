@@ -2,19 +2,29 @@
 
 ## 1. The Fellowship Companion
 
-- [ ] Artifact *"artifact-x-title.md"* (e.g., `artifact-1-situation-intent.md`) exists and is well described in `/artifacts`
-  - [ ] If applicable, supporting designs (e.g., `flow-1-deciding.mermaid.md`) or code (e.g., `interface-1-representing.html`) exist in `/designs` or `/code` and referenced in the artifact
+- [ ] Artifact *"artifact-x-title.md"* exists in `/artifacts/artifact-x/` (e.g., *"`artifact-1-situation-intent.md`"*)
+  - [ ] Artifact well described
+  - [ ] Supporting designs exist in `/src/` (e.g., *"`/flow-1-deciding.mermaid.md`*" or *"`/wireframe-1-deciding.png`"*) or code (e.g., *"`/interface-1-representing.html`"*)
+    - [ ] Referenced in the artifact
 - [ ] AI used thoughtfully (and justified in the chapters of The Red Book)
-- [ ] Changelog in `/README.md` (The Red Book of Westmarch) adapted
 
 ## 2. The Red Book of Westmarch
 
-- [ ] Descriptive chapter *"chapter-x-title.md"* (e.g., `chapter-1-setting-out.md`) exists in `/chapters`
+- [ ] Descriptive chapter *"chapter-x-title.md"* exists in `/chapters/` (e.g., *"`/chapter-1-setting-out.md`"*)
   - [ ] Sections completed (Title, Quote, Summary, Artifact, AI Assistance, Lessons Learned)
-  - [ ] The artifact is referenced
+  - [ ] Artifact referenced
+  - [ ] Changelog adapted in `/README.md`
 
 ## 3. Networking & Peer Feedback (Share and Care)
 
-- [ ] Shared link on [Lord of the Tweets](https://www.nafra.at/adad_st2026/).
-  - [ ] Use the specific GutHub pages link (e.g., `https://username.github.io/The-FellowShip-of-the-Code-2026/chapters/chapter-1-setting-out.html`).
-- [ ] Reacted and commented on others' work.
+- [ ] Artifact link shared on [Lord of the Tweets](https://www.nafra.at/adad_st2026/) (not your chapters)
+  - [ ] Specific GutHub pages link used (e.g., *"`https://username.github.io/The-Fellowship-of-the-Code-2026/artifacts/artifact-1/artifact-1-situation-intent.html`"*)
+    - Not the GitHub repository link (except for "*.mermaid.md" files, here use the repository link)
+- [ ] With others' work engaged (commented/liked)
+
+## 4. Submission (MS Teams)
+
+- [ ] Corresponding assignments in MS Teams opened (both; artifact and chapter)
+- [ ] Repository link submitted
+  - [ ] Specific repository link used (e.g., `https://github.com/username/The-Fellowship-of-the-Code-2026`)
+    - Not the GitHub Pages link

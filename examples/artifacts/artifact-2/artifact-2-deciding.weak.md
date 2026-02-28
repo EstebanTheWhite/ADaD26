@@ -10,15 +10,15 @@ I chose this because decisions are important in the journey.
 
 ## Flow
 
-`[Flow](/designs/flow-1-decisions.mermaid.md)`
+`[Flow](/src/flow-1-decisions.mermaid.md)`
 
->For this example see [flow-1-decisions.weak.mermaid.md](https://github.com/EstebanTheWhite/The-FellowShip-of-the-Code-2026/blob/main/examples/artifacts/designs/flow-1-decisions.weak.mermaid.md)
+>For this example see [flow-1-decisions.weak.mermaid.md](https://github.com/EstebanTheWhite/The-FellowShip-of-the-Code-2026/blob/main/examples/artifacts/artifact-1/src/flow-1-decisions.weak.mermaid.md)
 
 ## Wireframe
 
-`[Wireframe](/designs/wireframe-1-decisions.png)`
+`[Wireframe](/src/wireframe-1-decisions.png)`
 
->For this example see [wireframe-1-decisions.weak.png](/designs/wireframe-1-decisions.weak.png)
+>For this example see [wireframe-1-decisions.weak.png](/src/wireframe-1-decisions.weak.png)
 
 ## Design Rationale
 
@@ -33,7 +33,7 @@ I did not include too many details because that would make it complicated. The s
 
 ## Why this is weak
 
-- Capability is too vague ("Support decision-making" is not narrowed down)
+- Capability is too vague (*"Support decision-making"* is not narrowed down)
   - What kind of decision?
   - Route?
   - Risk?
@@ -56,7 +56,7 @@ I did not include too many details because that would make it complicated. The s
 - Design rationale lacks thinking
   - No reference to Homework 1 intent/value
   - No trade-offs discussed
-  - "Keep it simple" is not a design argument
+  - *"Keep it simple"* is not a design argument
   - Assumptions are trivial and unexamined
 - No visible narrowing of scope
   - Why this slice matters?

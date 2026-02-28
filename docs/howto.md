@@ -20,24 +20,24 @@ This guide explains how to **work, submit, and document your work** for the **Ap
 1. Create a new GitHub account: [github.com/join](https://github.com/join).
    1. Set your GitHub username to your team name.
 2. Create a new repository named **The-Fellowship-of-the-Code-2026**.
-3. Initialize the repository with a `README.md` file.
+3. Initialize the repository with a `/README.md` file.
 4. Create the following project structure in the repository:
 
         The-Fellowship-of-the-Code-2026/
         │
-        ├── README.md  ← The Red Book of Westmarch (main entry)
-        ├── chapters/  ← chapters of The Red Book
+        ├── README.md  ← The Red Book of Westmarch (index)
+        ├── chapters/  ← chapters of The Red Book (e.g., "chapter-1-setting-out.md")
         └── artifacts/ ← artifacts of The Fellowship Companion
-             ├── designs/ ← flows, wireframes (images, mermaid.md)
-             └── code/    ← implementation (*.html, *.css, *.js)
+             └── artifact-x/ ← specific artifact (e.g., "artifact-1-situation-intent.md")
+                  └── src/   ← flowcharts (*.mermaid.md), wireframes (images), code (*.html, *.css, *.js)
 
 5. Open the repository in **GitHub Codespaces**:
    - In GitHub, open your repository.
    - Click **Code** -> **Codespaces** -> **Create codespace on main**.
    - Wait until VS Code (web) starts.
-6. Fill `README.md` using our [template](/templates/readme.md):
-   - Open [`templates/readme.md`](/templates/readme.md).
-   - Copy the structure/content into your repository root `README.md`.
+6. Fill `/README.md` using our [template](/templates/readme.md):
+   - Open [`/templates/readme.md`](/templates/readme.md).
+   - Copy the structure/content into your repository root `/README.md`.
    - Replace placeholders with your team-specific content.
 7. Install these minimal VS Code extensions in Codespaces:
    - **Markdown All in One**
@@ -85,12 +85,12 @@ Please refer to our [official chapter template](/templates/chapter.md).
 
     - Insights, challenges, reflections
 
-Reflect updates in `/README.md` and as linked files in `/chapters`.
+Reflect updates in `/README.md` and as linked files in `/chapters/`.
 
 ## 3. Submission & Workflow
 
 - All deliverables live in your repository in the correct folders.
-- Each homework deliverable must be stored on GitHub and the GitHub pages link (assignment/chapter specific) must then be submitted in MS Teams.
+- Each homework deliverable must be stored on GitHub and the GitHub repository link (assignment/chapter specific) must then be submitted in MS Teams.
 - Red Book update is mandatory but not graded (used for feedback & peer engagement).
 - Keep your artifact separate from the reflection, but always link them.
 - Peer sharing occurs on our [peer platform](https://www.nafra.at/adad_st2026/): comment and like others' work (intrinsic rewards only).
@@ -98,7 +98,9 @@ Reflect updates in `/README.md` and as linked files in `/chapters`.
 ## 4. Networking & Peer Feedback (Lord of the Tweets)
 
 - Share your journey on our peer platform ([Lord of the Tweets](https://www.nafra.at/adad_st2026/)).
-  - Use the specific GutHub pages link (e.g., `https://username.github.io/The-FellowShip-of-the-Code-2026/chapters/chapter-1-setting-out.html`).
+  - Use the specific GutHub pages link (e.g., `https://username.github.io/The-Fellowship-of-the-Code-2026/artifacts/artifact-1/artifact-1-situation-intent.html`).
+    - Not the GitHub repository link (except for "*.mermaid.md" files, here use the repository link).
+  - Only share your artifact, not the chapter.
 - Engage with others' work (comment/like).
 - Best engagement will receive recognition/prizes.
 
@@ -125,7 +127,7 @@ Reflect updates in `/README.md` and as linked files in `/chapters`.
 **You are not graded on:**
 
 - How much code you write
-- How "advanced" your solution is
+- How *"advanced"* your solution is
 
 **You are graded on:**
 
@@ -141,6 +143,6 @@ Reflect updates in `/README.md` and as linked files in `/chapters`.
 - Commit often with meaningful messages.
 - Keep artifacts organized and named consistently.
 - **Update The Red Book** after each task (it tracks your journey).
-- **Check the templates** in [`/templates`](/templates) for formatting guidance.
-- **Check the examples** in [`/examples`](/examples/) for illustrations of "weak" outputs.
+- **Check the templates** in [`/templates/`](/templates) for formatting guidance.
+- **Check the examples** in [`/examples/`](/examples/) for illustrations of *"weak"* outputs.
 - Use the LOTR narrative to make your documentation memorable and interesting.

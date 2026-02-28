@@ -142,4 +142,5 @@ This repository is licensed under [**CC BY-NC-ND 4.0**](LICENSE.md).
  1.0|2026-02-24|Initial version of this repository, templates, and guidance (howto, f.a.q. and checklist)|
  1.1|2026-02-25|Added license information, narrative and a system brief (TFC); improved wording and structure|
  1.2|2026-02-26|Added examples; improved wording and structure|
- 1.3|2026-02-26|Added more examples; improved wording and structure|
+ 1.3|2026-02-27|Added more examples; improved wording and structure|
+ 1.4|2026-02-28|Added more examples; improved wording and structure|

@@ -31,7 +31,7 @@ The Fellowship Companion is an app that helps the Fellowship on their journey. I
 
 *`Adapt to your project...`*
 
-**File:** `[The Fellowship Companion - Artifact I: Situation & Intent](/artifacts/artifact-1-situation-intent.md)`
+**File:** `[The Fellowship Companion - Artifact I: Situation & Intent](/artifacts/artifact-1/artifact-1-situation-intent.md)`
 
 **Build:**
 

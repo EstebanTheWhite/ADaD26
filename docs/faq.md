@@ -31,14 +31,14 @@
 
 **This course does not test whether you already know:**
 
-- What a "good app" is
+- What a *"good app"* is
 - How to design the perfect system
 - How to write production-ready code
 
 **Instead, it tests whether you can:**
 
-- Make reasonable decisions
-- Explain why you made them
+- Make **reasonable decisions**
+- **Explain why** you made them
 
 ## Q2: Can I use AI for everything?
 
@@ -48,9 +48,9 @@
 
 ## Q3: How do I submit homework?
 
-- Commit artifacts to your GitHub repo in the proper folder.
-- Update the Red Book with reflections.
-- Submit your GitHub link (assignment/chapter specific) in MS Teams (the GitHub repository is "only" a file storage system not).
+- **Commit artifacts** to your GitHub repo in the proper folder.
+- **Update the Red Boo**k with reflections.
+- **Submit your GitHub link** (assignment/chapter specific) in MS Teams (the GitHub repository is *"only"* a file storage system).
 
 ## Q4: What is the Red Book of Westmarch?
 
@@ -74,16 +74,18 @@
 
 ## Q5: How does gamification in this course work?
 
-- Share your artifacts (not your chapters) on the peer platform ([Lord of the Tweets](https://www.nafra.at/adad_st2026/)).
-  - Use the specific GutHub pages link (e.g., `https://username.github.io/The-FellowShip-of-the-Code-2026/chapters/chapter-1-setting-out.html`).
+- Share your artifacts on the peer platform ([Lord of the Tweets](https://www.nafra.at/adad_st2026/)).
+  - Use the specific GutHub pages link (e.g., `https://username.github.io/The-Fellowship-of-the-Code-2026/artifacts/artifact-1/artifact-1-situation-intent.html`).
+    - Not the GitHub repository link (except for "*.mermaid.md" files, here use the repository link)
+  - Only share your artifact, not the chapter.
 - Engage with others' work (comment/like).
 - No grades are attached; motivation is intrinsic.
 - Top participants will receive recognition/prizes.
 
 **Why do we do peer sharing / gamification if it's not graded?**
 
-- Real development includes communication
-- Explaining your work deepens understanding
+- Real development includes **communication**
+- Explaining your work deepens **understanding**
 - Intrinsic motivation lasts longer than grades
 
 **Participation unlocks:**
@@ -98,11 +100,11 @@
 
         The-Fellowship-of-the-Code-2026/
         │
-        ├── README.md  ← The Red Book of Westmarch (main entry)
-        ├── chapters/  ← chapters of The Red Book
+        ├── README.md  ← The Red Book of Westmarch (index)
+        ├── chapters/  ← chapters of The Red Book (e.g., "chapter-1-setting-out.md")
         └── artifacts/ ← artifacts of The Fellowship Companion
-             ├── designs/ ← flows, wireframes (images, mermaid.md)
-             └── code/    ← implementation (*.html, *.css, *.js)
+             └── artifact-x/ ← specific artifact (e.g., "artifact-1-situation-intent.md")
+                  └── src/   ← flowcharts (*.mermaid.md), wireframes (images), code (*.html, *.css, *.js)
 
 - Update `/README.md` and linked chapters for Red Book reflection
 
@@ -144,9 +146,9 @@
 
 Two students can submit very different artifacts and both receive full points ...if:
 
-- Their work is consistent
-- Their reasoning is clear
-- Their reflection is honest
+- Their work is **consistent**.
+- Their reasoning is **clear**.
+- Their reflection is **genuine**.
 
 ## Q12: How creative am I allowed to be?
 
@@ -167,9 +169,9 @@ Two students can submit very different artifacts and both receive full points ..
 
 **This course is about:**
 
-- Understanding
-- Explaining
-- Connecting concepts
+- **Understanding**
+- **Explaining**
+- **Connecting** concepts
 
 **You may:**
 
@@ -179,9 +181,9 @@ Two students can submit very different artifacts and both receive full points ..
 
 **What matters is that you can:**
 
-- Explain what the code does
-- Explain why it exists
-- Explain how it fits into the system
+- Explain **what** the code does
+- Explain **why** it exists
+- Explain **how** it fits into the system
 
 ## Q14: What if my homework feels incomplete?
 
@@ -213,8 +215,8 @@ Two students can submit very different artifacts and both receive full points ..
 
 **In this order:**
 
-- This GitHub repository (in full)
-- Your own README (Red Book)
+- This GitHub repository (in full) (or **Gandalf, AI Steward of the Fellowship of the Code**)
+- Your own README (Red Book of Westmarch)
 - AI (with reflection)
 - Your instructor
 - Your peers
